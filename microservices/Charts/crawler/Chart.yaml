@@ -1,0 +1,8 @@
+---
+name: crawler
+version: 1.0.0
+description: search engine application UI
+maintainers:
+  - name: thoridal
+    email: x.sandro111@gmail.com
+appVersion: 1.0
